@@ -1,0 +1,22 @@
+2025-09-20 23:30:22,142 - INFO - === SYSTEM STARTED ===
+2025-09-20 23:30:22,142 - INFO - Configuration: {
+  "model_path": "yolov8n.pt",
+  "tracking_enabled": true,
+  "enhancement_enabled": true,
+  "logging_enabled": true
+}
+2025-09-21 13:03:11,856 - INFO - === SYSTEM STARTED ===
+2025-09-21 13:03:11,856 - INFO - Configuration: {
+  "model_path": "yolov8n.pt",
+  "tracking_enabled": true,
+  "enhancement_enabled": true,
+  "logging_enabled": true
+}
+2025-09-21 13:05:25,884 - INFO - === SYSTEM STARTED ===
+2025-09-21 13:05:25,884 - INFO - Configuration: {
+  "model_path": "yolov8n.pt",
+  "tracking_enabled": true,
+  "enhancement_enabled": true,
+  "logging_enabled": true
+}
+2025-09-21 13:06:09,726 - WARNING - ZONE ALERT: {'zone_name': 'Restricted Area 2', 'object_class': 'person', 'confidence': 0.5649909377098083, 'bbox': [93, 0, 638, 382], 'center': (365, 191), 'timestamp': 1758440169.181573}

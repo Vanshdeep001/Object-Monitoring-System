@@ -1,0 +1,17 @@
+# Minimal requirements for Object Detection and Monitoring System
+# Use this if the main requirements.txt fails
+
+opencv-python
+ultralytics
+torch
+torchvision
+numpy
+matplotlib
+streamlit
+deep-sort-realtime
+Pillow
+pandas
+scipy
+scikit-learn
+plotly
+

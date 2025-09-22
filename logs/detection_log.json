@@ -1,0 +1,7730 @@
+[
+  {
+    "timestamp": "2025-09-20T23:30:28.818446",
+    "frame_number": 44,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7574877142906189,
+    "bbox": [
+      105,
+      140,
+      624,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:03:25.686850",
+    "frame_number": 120,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8465619087219238,
+    "bbox": [
+      2,
+      160,
+      638,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:26.568251",
+    "frame_number": 1,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6751866340637207,
+    "bbox": [
+      66,
+      201,
+      545,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:26.765226",
+    "frame_number": 2,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7649897336959839,
+    "bbox": [
+      52,
+      201,
+      546,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:26.849738",
+    "frame_number": 3,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7674704194068909,
+    "bbox": [
+      32,
+      205,
+      547,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:26.947010",
+    "frame_number": 4,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7795419692993164,
+    "bbox": [
+      36,
+      201,
+      546,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:27.034212",
+    "frame_number": 5,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5922218561172485,
+    "bbox": [
+      32,
+      201,
+      545,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:27.118541",
+    "frame_number": 6,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7264177203178406,
+    "bbox": [
+      28,
+      201,
+      547,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:27.234083",
+    "frame_number": 7,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7463979125022888,
+    "bbox": [
+      34,
+      201,
+      544,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:27.326555",
+    "frame_number": 8,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7463979125022888,
+    "bbox": [
+      34,
+      201,
+      544,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:27.419178",
+    "frame_number": 9,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8096125721931458,
+    "bbox": [
+      42,
+      201,
+      548,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:27.518663",
+    "frame_number": 10,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7052580714225769,
+    "bbox": [
+      47,
+      199,
+      548,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:27.748808",
+    "frame_number": 12,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6225011944770813,
+    "bbox": [
+      138,
+      196,
+      637,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:27.833936",
+    "frame_number": 13,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.775333821773529,
+    "bbox": [
+      4,
+      197,
+      565,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:27.950043",
+    "frame_number": 14,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7647786140441895,
+    "bbox": [
+      35,
+      192,
+      579,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:28.024599",
+    "frame_number": 15,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7647786140441895,
+    "bbox": [
+      35,
+      192,
+      579,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:28.125425",
+    "frame_number": 16,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7614896893501282,
+    "bbox": [
+      7,
+      200,
+      573,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:28.217263",
+    "frame_number": 17,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.698435366153717,
+    "bbox": [
+      14,
+      188,
+      574,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:28.318548",
+    "frame_number": 18,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7007858753204346,
+    "bbox": [
+      58,
+      191,
+      569,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:28.417053",
+    "frame_number": 19,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6979878544807434,
+    "bbox": [
+      46,
+      190,
+      583,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:28.517218",
+    "frame_number": 20,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6979878544807434,
+    "bbox": [
+      46,
+      190,
+      583,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:28.617488",
+    "frame_number": 21,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7484582662582397,
+    "bbox": [
+      23,
+      190,
+      601,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:28.717084",
+    "frame_number": 22,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7880255579948425,
+    "bbox": [
+      52,
+      188,
+      633,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:28.816025",
+    "frame_number": 23,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7271470427513123,
+    "bbox": [
+      52,
+      191,
+      599,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:28.914383",
+    "frame_number": 24,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7271470427513123,
+    "bbox": [
+      52,
+      191,
+      599,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:29.000085",
+    "frame_number": 25,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6601026654243469,
+    "bbox": [
+      37,
+      191,
+      575,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:29.088136",
+    "frame_number": 26,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6601026654243469,
+    "bbox": [
+      37,
+      191,
+      575,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:29.166832",
+    "frame_number": 27,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7261045575141907,
+    "bbox": [
+      56,
+      191,
+      623,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:29.302235",
+    "frame_number": 28,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7460262179374695,
+    "bbox": [
+      43,
+      191,
+      629,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:29.389539",
+    "frame_number": 29,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7069864273071289,
+    "bbox": [
+      16,
+      187,
+      600,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:29.489669",
+    "frame_number": 30,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5673916339874268,
+    "bbox": [
+      9,
+      186,
+      601,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:29.583847",
+    "frame_number": 31,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7309972047805786,
+    "bbox": [
+      22,
+      186,
+      571,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:29.678308",
+    "frame_number": 32,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6635723114013672,
+    "bbox": [
+      17,
+      187,
+      608,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:29.783026",
+    "frame_number": 33,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7789414525032043,
+    "bbox": [
+      4,
+      13,
+      638,
+      477
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:29.872424",
+    "frame_number": 34,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7944778800010681,
+    "bbox": [
+      16,
+      10,
+      639,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:29.951397",
+    "frame_number": 35,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8426349759101868,
+    "bbox": [
+      3,
+      9,
+      638,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:30.832914",
+    "frame_number": 36,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.816360354423523,
+    "bbox": [
+      2,
+      3,
+      639,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:31.601964",
+    "frame_number": 37,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6394683122634888,
+    "bbox": [
+      0,
+      1,
+      625,
+      475
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:32.339550",
+    "frame_number": 38,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5652206540107727,
+    "bbox": [
+      0,
+      2,
+      632,
+      474
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:33.096697",
+    "frame_number": 39,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6352185010910034,
+    "bbox": [
+      1,
+      4,
+      625,
+      468
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:33.096697",
+    "frame_number": 39,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5445957779884338,
+    "bbox": [
+      2,
+      237,
+      560,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:33.904346",
+    "frame_number": 40,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6110493540763855,
+    "bbox": [
+      0,
+      2,
+      612,
+      472
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:34.701967",
+    "frame_number": 42,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.714728057384491,
+    "bbox": [
+      274,
+      85,
+      600,
+      242
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:34.701967",
+    "frame_number": 42,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6963065266609192,
+    "bbox": [
+      2,
+      4,
+      631,
+      477
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:34.799878",
+    "frame_number": 43,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7762835025787354,
+    "bbox": [
+      2,
+      4,
+      632,
+      477
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:34.799878",
+    "frame_number": 43,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.6402611136436462,
+    "bbox": [
+      275,
+      89,
+      597,
+      242
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:34.799878",
+    "frame_number": 43,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5008811950683594,
+    "bbox": [
+      3,
+      236,
+      557,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:34.917156",
+    "frame_number": 44,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7887666821479797,
+    "bbox": [
+      2,
+      3,
+      633,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:34.917156",
+    "frame_number": 44,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.6804956197738647,
+    "bbox": [
+      276,
+      92,
+      596,
+      245
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.016489",
+    "frame_number": 45,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.8253006339073181,
+    "bbox": [
+      279,
+      104,
+      590,
+      250
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.016489",
+    "frame_number": 45,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7739567756652832,
+    "bbox": [
+      0,
+      9,
+      632,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.016489",
+    "frame_number": 45,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5164160132408142,
+    "bbox": [
+      1,
+      249,
+      583,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.137265",
+    "frame_number": 46,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8187299370765686,
+    "bbox": [
+      1,
+      11,
+      632,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.137265",
+    "frame_number": 46,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.7687922716140747,
+    "bbox": [
+      280,
+      106,
+      588,
+      252
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.234006",
+    "frame_number": 47,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7928723096847534,
+    "bbox": [
+      0,
+      14,
+      630,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.234006",
+    "frame_number": 47,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.7662760615348816,
+    "bbox": [
+      281,
+      107,
+      588,
+      252
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.333804",
+    "frame_number": 48,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7928723096847534,
+    "bbox": [
+      0,
+      14,
+      630,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.333804",
+    "frame_number": 48,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.7662760615348816,
+    "bbox": [
+      281,
+      107,
+      588,
+      252
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.476808",
+    "frame_number": 49,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8224079012870789,
+    "bbox": [
+      0,
+      8,
+      633,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.476808",
+    "frame_number": 49,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.8046019077301025,
+    "bbox": [
+      277,
+      104,
+      590,
+      250
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.568465",
+    "frame_number": 50,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.821502149105072,
+    "bbox": [
+      0,
+      11,
+      628,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.568465",
+    "frame_number": 50,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.7961501479148865,
+    "bbox": [
+      276,
+      101,
+      592,
+      250
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.678369",
+    "frame_number": 51,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8270464539527893,
+    "bbox": [
+      1,
+      6,
+      629,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.678369",
+    "frame_number": 51,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.8153380751609802,
+    "bbox": [
+      271,
+      99,
+      590,
+      249
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.784850",
+    "frame_number": 52,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.7076990604400635,
+    "bbox": [
+      267,
+      91,
+      589,
+      245
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.784850",
+    "frame_number": 52,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.656288206577301,
+    "bbox": [
+      3,
+      8,
+      633,
+      477
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:35.784850",
+    "frame_number": 52,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.532114565372467,
+    "bbox": [
+      1,
+      240,
+      550,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:36.530443",
+    "frame_number": 53,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6817433834075928,
+    "bbox": [
+      1,
+      0,
+      618,
+      473
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:37.238104",
+    "frame_number": 54,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6418530344963074,
+    "bbox": [
+      0,
+      2,
+      629,
+      475
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:37.238104",
+    "frame_number": 54,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.571700930595398,
+    "bbox": [
+      252,
+      85,
+      597,
+      249
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:37.990401",
+    "frame_number": 55,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6980514526367188,
+    "bbox": [
+      0,
+      6,
+      636,
+      472
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:37.990401",
+    "frame_number": 55,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6546579003334045,
+    "bbox": [
+      241,
+      81,
+      597,
+      246
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:37.990401",
+    "frame_number": 55,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5566899180412292,
+    "bbox": [
+      9,
+      236,
+      564,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:38.806119",
+    "frame_number": 56,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.8092209696769714,
+    "bbox": [
+      236,
+      142,
+      543,
+      291
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:38.806119",
+    "frame_number": 56,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6951318979263306,
+    "bbox": [
+      0,
+      0,
+      631,
+      473
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:39.621582",
+    "frame_number": 57,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7753055691719055,
+    "bbox": [
+      240,
+      155,
+      520,
+      291
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:39.621582",
+    "frame_number": 57,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6377879977226257,
+    "bbox": [
+      2,
+      14,
+      634,
+      475
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:39.621582",
+    "frame_number": 57,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6063462495803833,
+    "bbox": [
+      0,
+      266,
+      137,
+      437
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:40.483575",
+    "frame_number": 58,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.8214807510375977,
+    "bbox": [
+      238,
+      149,
+      522,
+      288
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:40.483575",
+    "frame_number": 58,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7856429219245911,
+    "bbox": [
+      0,
+      0,
+      633,
+      473
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:40.483575",
+    "frame_number": 58,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5345758199691772,
+    "bbox": [
+      0,
+      265,
+      151,
+      437
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:41.310106",
+    "frame_number": 59,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6541692018508911,
+    "bbox": [
+      0,
+      0,
+      634,
+      472
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:41.310106",
+    "frame_number": 59,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5797515511512756,
+    "bbox": [
+      228,
+      129,
+      521,
+      268
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:42.126075",
+    "frame_number": 60,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6423371434211731,
+    "bbox": [
+      214,
+      107,
+      514,
+      258
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:42.126075",
+    "frame_number": 60,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5841503143310547,
+    "bbox": [
+      0,
+      2,
+      621,
+      471
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:42.971098",
+    "frame_number": 61,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6625910401344299,
+    "bbox": [
+      0,
+      8,
+      625,
+      475
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:42.971098",
+    "frame_number": 61,
+    "object_id": "",
+    "class_name": "bed",
+    "confidence": 0.5276774764060974,
+    "bbox": [
+      30,
+      0,
+      639,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:43.753385",
+    "frame_number": 62,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6668572425842285,
+    "bbox": [
+      208,
+      105,
+      516,
+      256
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:43.753385",
+    "frame_number": 62,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6240230202674866,
+    "bbox": [
+      0,
+      2,
+      622,
+      474
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:44.581629",
+    "frame_number": 63,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5200231671333313,
+    "bbox": [
+      0,
+      1,
+      624,
+      476
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:45.396505",
+    "frame_number": 64,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6686058044433594,
+    "bbox": [
+      0,
+      2,
+      632,
+      475
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:45.396505",
+    "frame_number": 64,
+    "object_id": "",
+    "class_name": "bed",
+    "confidence": 0.528758704662323,
+    "bbox": [
+      28,
+      0,
+      638,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:46.942348",
+    "frame_number": 66,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5679657459259033,
+    "bbox": [
+      0,
+      3,
+      630,
+      472
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:48.525356",
+    "frame_number": 68,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6266337037086487,
+    "bbox": [
+      0,
+      1,
+      624,
+      476
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:48.525356",
+    "frame_number": 68,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5889002084732056,
+    "bbox": [
+      183,
+      106,
+      505,
+      263
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:49.304825",
+    "frame_number": 69,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5806418657302856,
+    "bbox": [
+      2,
+      0,
+      629,
+      476
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:50.144827",
+    "frame_number": 70,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6376076936721802,
+    "bbox": [
+      1,
+      1,
+      609,
+      471
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:50.894535",
+    "frame_number": 71,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5584315657615662,
+    "bbox": [
+      1,
+      1,
+      607,
+      472
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:50.894535",
+    "frame_number": 71,
+    "object_id": "",
+    "class_name": "bed",
+    "confidence": 0.5020544528961182,
+    "bbox": [
+      7,
+      0,
+      640,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:51.683434",
+    "frame_number": 72,
+    "object_id": "",
+    "class_name": "bed",
+    "confidence": 0.6187434196472168,
+    "bbox": [
+      8,
+      0,
+      638,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:54.918866",
+    "frame_number": 76,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5454124808311462,
+    "bbox": [
+      121,
+      111,
+      277,
+      404
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:54.918866",
+    "frame_number": 76,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5420467853546143,
+    "bbox": [
+      4,
+      1,
+      638,
+      477
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:55.714608",
+    "frame_number": 77,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5867190361022949,
+    "bbox": [
+      23,
+      196,
+      536,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:56.470636",
+    "frame_number": 78,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6937569379806519,
+    "bbox": [
+      41,
+      195,
+      539,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:57.287660",
+    "frame_number": 79,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7264764308929443,
+    "bbox": [
+      16,
+      189,
+      545,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:57.287660",
+    "frame_number": 79,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6550300121307373,
+    "bbox": [
+      100,
+      99,
+      263,
+      452
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:58.315892",
+    "frame_number": 82,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.727780818939209,
+    "bbox": [
+      161,
+      35,
+      637,
+      475
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:58.432811",
+    "frame_number": 83,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.727780818939209,
+    "bbox": [
+      161,
+      35,
+      637,
+      475
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:59.232818",
+    "frame_number": 84,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6941736340522766,
+    "bbox": [
+      50,
+      201,
+      550,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:59.336942",
+    "frame_number": 85,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7184569835662842,
+    "bbox": [
+      60,
+      201,
+      541,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:59.464171",
+    "frame_number": 86,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6197082996368408,
+    "bbox": [
+      85,
+      203,
+      539,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:59.614557",
+    "frame_number": 87,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7040361166000366,
+    "bbox": [
+      81,
+      201,
+      541,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:05:59.757474",
+    "frame_number": 88,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7450557947158813,
+    "bbox": [
+      50,
+      197,
+      535,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:00.627608",
+    "frame_number": 89,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6136484742164612,
+    "bbox": [
+      109,
+      197,
+      535,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:01.495259",
+    "frame_number": 90,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5450841784477234,
+    "bbox": [
+      52,
+      188,
+      556,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:03.185653",
+    "frame_number": 92,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5243982672691345,
+    "bbox": [
+      161,
+      247,
+      273,
+      364
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:04.814987",
+    "frame_number": 94,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6923084855079651,
+    "bbox": [
+      117,
+      190,
+      559,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:08.936954",
+    "frame_number": 99,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.660499632358551,
+    "bbox": [
+      71,
+      196,
+      542,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:09.067064",
+    "frame_number": 100,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5547151565551758,
+    "bbox": [
+      110,
+      1,
+      639,
+      471
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:09.712782",
+    "frame_number": 101,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5649909377098083,
+    "bbox": [
+      93,
+      0,
+      638,
+      382
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:11.315245",
+    "frame_number": 103,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6914588212966919,
+    "bbox": [
+      198,
+      0,
+      639,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:12.206060",
+    "frame_number": 104,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6991426944732666,
+    "bbox": [
+      2,
+      0,
+      638,
+      476
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:13.060153",
+    "frame_number": 105,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5656284689903259,
+    "bbox": [
+      188,
+      191,
+      637,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:13.903801",
+    "frame_number": 106,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6829715371131897,
+    "bbox": [
+      140,
+      188,
+      637,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:14.019443",
+    "frame_number": 107,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.738534688949585,
+    "bbox": [
+      183,
+      199,
+      627,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:14.132340",
+    "frame_number": 108,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.738534688949585,
+    "bbox": [
+      183,
+      199,
+      627,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:15.006477",
+    "frame_number": 109,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6589352488517761,
+    "bbox": [
+      199,
+      202,
+      538,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:15.006477",
+    "frame_number": 109,
+    "object_id": "",
+    "class_name": "laptop",
+    "confidence": 0.6509371995925903,
+    "bbox": [
+      0,
+      398,
+      274,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:15.116666",
+    "frame_number": 110,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7169412970542908,
+    "bbox": [
+      195,
+      200,
+      616,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:15.248117",
+    "frame_number": 111,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7329971194267273,
+    "bbox": [
+      199,
+      199,
+      622,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:15.415643",
+    "frame_number": 112,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7094122171401978,
+    "bbox": [
+      198,
+      197,
+      630,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:15.548575",
+    "frame_number": 113,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7562481164932251,
+    "bbox": [
+      199,
+      195,
+      630,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:15.684470",
+    "frame_number": 114,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7744935154914856,
+    "bbox": [
+      201,
+      194,
+      631,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:15.806647",
+    "frame_number": 115,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7681730389595032,
+    "bbox": [
+      193,
+      192,
+      626,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:15.948095",
+    "frame_number": 116,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7723933458328247,
+    "bbox": [
+      198,
+      192,
+      631,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:16.071230",
+    "frame_number": 117,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7750316858291626,
+    "bbox": [
+      169,
+      193,
+      602,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:16.206470",
+    "frame_number": 118,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7801317572593689,
+    "bbox": [
+      153,
+      192,
+      619,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:16.342169",
+    "frame_number": 119,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7754058241844177,
+    "bbox": [
+      166,
+      191,
+      619,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:16.464167",
+    "frame_number": 120,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7876899242401123,
+    "bbox": [
+      176,
+      194,
+      613,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:16.588147",
+    "frame_number": 121,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.795942485332489,
+    "bbox": [
+      175,
+      194,
+      613,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:16.716356",
+    "frame_number": 122,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7738444209098816,
+    "bbox": [
+      182,
+      196,
+      583,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:16.848281",
+    "frame_number": 123,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7603960633277893,
+    "bbox": [
+      194,
+      198,
+      599,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:16.964371",
+    "frame_number": 124,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7274719476699829,
+    "bbox": [
+      198,
+      198,
+      617,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:17.098304",
+    "frame_number": 125,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6184074282646179,
+    "bbox": [
+      204,
+      206,
+      596,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:18.848708",
+    "frame_number": 134,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6774696111679077,
+    "bbox": [
+      490,
+      146,
+      639,
+      421
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:18.848708",
+    "frame_number": 134,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5612929463386536,
+    "bbox": [
+      2,
+      160,
+      583,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.006518",
+    "frame_number": 135,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8231287002563477,
+    "bbox": [
+      471,
+      174,
+      639,
+      425
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.127736",
+    "frame_number": 136,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7026216983795166,
+    "bbox": [
+      460,
+      178,
+      639,
+      418
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.127736",
+    "frame_number": 136,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5237388014793396,
+    "bbox": [
+      0,
+      81,
+      613,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.259819",
+    "frame_number": 137,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6126943826675415,
+    "bbox": [
+      459,
+      178,
+      639,
+      415
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.259819",
+    "frame_number": 137,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5134289264678955,
+    "bbox": [
+      0,
+      85,
+      607,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.397071",
+    "frame_number": 138,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6999759078025818,
+    "bbox": [
+      461,
+      179,
+      639,
+      412
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.397071",
+    "frame_number": 138,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5426720976829529,
+    "bbox": [
+      0,
+      22,
+      605,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.545719",
+    "frame_number": 139,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6454282999038696,
+    "bbox": [
+      461,
+      181,
+      639,
+      409
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.545719",
+    "frame_number": 139,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6133129596710205,
+    "bbox": [
+      0,
+      0,
+      605,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.713099",
+    "frame_number": 140,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6750638484954834,
+    "bbox": [
+      462,
+      183,
+      639,
+      410
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.713099",
+    "frame_number": 140,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.531845211982727,
+    "bbox": [
+      0,
+      4,
+      595,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.857527",
+    "frame_number": 141,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6433607339859009,
+    "bbox": [
+      463,
+      184,
+      639,
+      409
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:19.993456",
+    "frame_number": 142,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7197830080986023,
+    "bbox": [
+      462,
+      184,
+      639,
+      410
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:20.113438",
+    "frame_number": 143,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7328837513923645,
+    "bbox": [
+      462,
+      185,
+      639,
+      410
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:20.252968",
+    "frame_number": 144,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7106935977935791,
+    "bbox": [
+      462,
+      185,
+      639,
+      408
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:20.368023",
+    "frame_number": 145,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7185861468315125,
+    "bbox": [
+      461,
+      184,
+      639,
+      409
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:20.494402",
+    "frame_number": 146,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7357728481292725,
+    "bbox": [
+      461,
+      184,
+      639,
+      409
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:20.615296",
+    "frame_number": 147,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6695746779441833,
+    "bbox": [
+      457,
+      173,
+      639,
+      404
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:20.754872",
+    "frame_number": 148,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.6461934447288513,
+    "bbox": [
+      174,
+      201,
+      510,
+      324
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:20.754872",
+    "frame_number": 148,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6410698294639587,
+    "bbox": [
+      448,
+      170,
+      639,
+      403
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:20.754872",
+    "frame_number": 148,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5599030256271362,
+    "bbox": [
+      0,
+      29,
+      613,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:20.921737",
+    "frame_number": 149,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6453996896743774,
+    "bbox": [
+      1,
+      105,
+      640,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.053442",
+    "frame_number": 150,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7251091599464417,
+    "bbox": [
+      1,
+      59,
+      640,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.053442",
+    "frame_number": 150,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6918895840644836,
+    "bbox": [
+      187,
+      200,
+      475,
+      321
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.182201",
+    "frame_number": 151,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7614133358001709,
+    "bbox": [
+      0,
+      160,
+      625,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.182201",
+    "frame_number": 151,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6692370176315308,
+    "bbox": [
+      176,
+      186,
+      461,
+      290
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.331148",
+    "frame_number": 152,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.701320230960846,
+    "bbox": [
+      1,
+      77,
+      638,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.451604",
+    "frame_number": 153,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7633728981018066,
+    "bbox": [
+      1,
+      86,
+      634,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.451604",
+    "frame_number": 153,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6789592504501343,
+    "bbox": [
+      410,
+      176,
+      639,
+      422
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.597913",
+    "frame_number": 154,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7802881002426147,
+    "bbox": [
+      2,
+      63,
+      640,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.597913",
+    "frame_number": 154,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5032842755317688,
+    "bbox": [
+      180,
+      195,
+      467,
+      306
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.731940",
+    "frame_number": 155,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8200765252113342,
+    "bbox": [
+      1,
+      83,
+      640,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.731940",
+    "frame_number": 155,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6911956071853638,
+    "bbox": [
+      181,
+      196,
+      466,
+      307
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.865241",
+    "frame_number": 156,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8080964684486389,
+    "bbox": [
+      0,
+      92,
+      640,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:21.865241",
+    "frame_number": 156,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7101141214370728,
+    "bbox": [
+      178,
+      197,
+      467,
+      307
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.047862",
+    "frame_number": 157,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.8716535568237305,
+    "bbox": [
+      179,
+      198,
+      467,
+      311
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.047862",
+    "frame_number": 157,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7716670632362366,
+    "bbox": [
+      1,
+      51,
+      623,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.173153",
+    "frame_number": 158,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.8482764363288879,
+    "bbox": [
+      185,
+      194,
+      477,
+      313
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.173153",
+    "frame_number": 158,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7623379230499268,
+    "bbox": [
+      0,
+      78,
+      633,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.313073",
+    "frame_number": 159,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.8780308365821838,
+    "bbox": [
+      180,
+      202,
+      475,
+      314
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.313073",
+    "frame_number": 159,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5795891880989075,
+    "bbox": [
+      0,
+      71,
+      631,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.474568",
+    "frame_number": 160,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7534947395324707,
+    "bbox": [
+      0,
+      48,
+      626,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.474568",
+    "frame_number": 160,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7294037342071533,
+    "bbox": [
+      154,
+      212,
+      460,
+      317
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.625725",
+    "frame_number": 161,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.8477919697761536,
+    "bbox": [
+      166,
+      209,
+      459,
+      316
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.625725",
+    "frame_number": 161,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7492365837097168,
+    "bbox": [
+      1,
+      104,
+      599,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.779687",
+    "frame_number": 162,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7342092394828796,
+    "bbox": [
+      167,
+      209,
+      458,
+      318
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.779687",
+    "frame_number": 162,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6553369164466858,
+    "bbox": [
+      1,
+      89,
+      617,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.931876",
+    "frame_number": 163,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7234967947006226,
+    "bbox": [
+      1,
+      89,
+      619,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:22.931876",
+    "frame_number": 163,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6331781148910522,
+    "bbox": [
+      168,
+      210,
+      457,
+      320
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.080403",
+    "frame_number": 164,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7020825743675232,
+    "bbox": [
+      161,
+      214,
+      458,
+      321
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.080403",
+    "frame_number": 164,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7003214359283447,
+    "bbox": [
+      1,
+      103,
+      598,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.214056",
+    "frame_number": 165,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6553364396095276,
+    "bbox": [
+      162,
+      215,
+      460,
+      321
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.214056",
+    "frame_number": 165,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.614855170249939,
+    "bbox": [
+      1,
+      104,
+      618,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.366669",
+    "frame_number": 166,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.739434540271759,
+    "bbox": [
+      1,
+      137,
+      619,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.366669",
+    "frame_number": 166,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6636248230934143,
+    "bbox": [
+      165,
+      216,
+      459,
+      323
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.514473",
+    "frame_number": 167,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7088941931724548,
+    "bbox": [
+      1,
+      127,
+      610,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.514473",
+    "frame_number": 167,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7065748572349548,
+    "bbox": [
+      163,
+      219,
+      459,
+      323
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.661348",
+    "frame_number": 168,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7006129026412964,
+    "bbox": [
+      1,
+      16,
+      619,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.661348",
+    "frame_number": 168,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5366796851158142,
+    "bbox": [
+      164,
+      221,
+      458,
+      325
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.781917",
+    "frame_number": 169,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.704082727432251,
+    "bbox": [
+      1,
+      0,
+      613,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.915048",
+    "frame_number": 170,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6674671769142151,
+    "bbox": [
+      1,
+      55,
+      616,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:23.915048",
+    "frame_number": 170,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5690457224845886,
+    "bbox": [
+      163,
+      217,
+      457,
+      325
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.062923",
+    "frame_number": 171,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7369236946105957,
+    "bbox": [
+      1,
+      6,
+      624,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.062923",
+    "frame_number": 171,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5058475732803345,
+    "bbox": [
+      161,
+      216,
+      455,
+      326
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.215369",
+    "frame_number": 172,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7210184335708618,
+    "bbox": [
+      1,
+      0,
+      622,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.215369",
+    "frame_number": 172,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.6160107254981995,
+    "bbox": [
+      164,
+      216,
+      453,
+      325
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.215369",
+    "frame_number": 172,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5767053961753845,
+    "bbox": [
+      166,
+      217,
+      454,
+      328
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.381244",
+    "frame_number": 173,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7173140645027161,
+    "bbox": [
+      1,
+      0,
+      623,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.381244",
+    "frame_number": 173,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.5625662207603455,
+    "bbox": [
+      163,
+      216,
+      452,
+      326
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.515189",
+    "frame_number": 174,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.772215723991394,
+    "bbox": [
+      1,
+      0,
+      626,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.515189",
+    "frame_number": 174,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5097013711929321,
+    "bbox": [
+      164,
+      218,
+      458,
+      328
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.654037",
+    "frame_number": 175,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7099491953849792,
+    "bbox": [
+      0,
+      0,
+      624,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.654037",
+    "frame_number": 175,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6195325255393982,
+    "bbox": [
+      165,
+      216,
+      457,
+      326
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.830062",
+    "frame_number": 176,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7392513751983643,
+    "bbox": [
+      0,
+      26,
+      632,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.830062",
+    "frame_number": 176,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6517035365104675,
+    "bbox": [
+      163,
+      215,
+      457,
+      327
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.958420",
+    "frame_number": 177,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7754877805709839,
+    "bbox": [
+      164,
+      214,
+      457,
+      327
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:24.958420",
+    "frame_number": 177,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6955064535140991,
+    "bbox": [
+      0,
+      19,
+      632,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.098154",
+    "frame_number": 178,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6952640414237976,
+    "bbox": [
+      1,
+      148,
+      607,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.098154",
+    "frame_number": 178,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6784182190895081,
+    "bbox": [
+      169,
+      215,
+      457,
+      328
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.246619",
+    "frame_number": 179,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6895290613174438,
+    "bbox": [
+      1,
+      137,
+      603,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.246619",
+    "frame_number": 179,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.574170708656311,
+    "bbox": [
+      165,
+      213,
+      457,
+      329
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.418851",
+    "frame_number": 180,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6873568296432495,
+    "bbox": [
+      172,
+      212,
+      454,
+      330
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.418851",
+    "frame_number": 180,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6619778275489807,
+    "bbox": [
+      0,
+      48,
+      611,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.560197",
+    "frame_number": 181,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7496536374092102,
+    "bbox": [
+      0,
+      24,
+      619,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.560197",
+    "frame_number": 181,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7320127487182617,
+    "bbox": [
+      172,
+      212,
+      455,
+      331
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.730379",
+    "frame_number": 182,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6768895983695984,
+    "bbox": [
+      0,
+      38,
+      610,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.730379",
+    "frame_number": 182,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6574430465698242,
+    "bbox": [
+      168,
+      211,
+      455,
+      332
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.871408",
+    "frame_number": 183,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.682166337966919,
+    "bbox": [
+      0,
+      38,
+      604,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:25.871408",
+    "frame_number": 183,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6813147068023682,
+    "bbox": [
+      162,
+      208,
+      458,
+      333
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.018586",
+    "frame_number": 184,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6924190521240234,
+    "bbox": [
+      165,
+      209,
+      455,
+      333
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.018586",
+    "frame_number": 184,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6622636914253235,
+    "bbox": [
+      1,
+      136,
+      582,
+      477
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.167963",
+    "frame_number": 185,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6663239598274231,
+    "bbox": [
+      1,
+      142,
+      578,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.167963",
+    "frame_number": 185,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.5294268727302551,
+    "bbox": [
+      171,
+      209,
+      457,
+      332
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.167963",
+    "frame_number": 185,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5093119144439697,
+    "bbox": [
+      167,
+      208,
+      458,
+      333
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.320290",
+    "frame_number": 186,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6277729868888855,
+    "bbox": [
+      1,
+      4,
+      618,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.320290",
+    "frame_number": 186,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6169366240501404,
+    "bbox": [
+      157,
+      209,
+      457,
+      332
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.476943",
+    "frame_number": 187,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.741014838218689,
+    "bbox": [
+      174,
+      208,
+      455,
+      327
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.476943",
+    "frame_number": 187,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5938915610313416,
+    "bbox": [
+      1,
+      0,
+      618,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.476943",
+    "frame_number": 187,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5063604116439819,
+    "bbox": [
+      394,
+      189,
+      639,
+      443
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.637268",
+    "frame_number": 188,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7391930222511292,
+    "bbox": [
+      175,
+      208,
+      456,
+      327
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.637268",
+    "frame_number": 188,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6043490767478943,
+    "bbox": [
+      1,
+      135,
+      599,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.771774",
+    "frame_number": 189,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7981381416320801,
+    "bbox": [
+      175,
+      206,
+      456,
+      327
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.771774",
+    "frame_number": 189,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6651882529258728,
+    "bbox": [
+      0,
+      24,
+      627,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.938088",
+    "frame_number": 190,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7270938158035278,
+    "bbox": [
+      167,
+      205,
+      459,
+      328
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:26.938088",
+    "frame_number": 190,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.668271005153656,
+    "bbox": [
+      1,
+      57,
+      623,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.074805",
+    "frame_number": 191,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7829511165618896,
+    "bbox": [
+      177,
+      204,
+      456,
+      327
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.074805",
+    "frame_number": 191,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6390978693962097,
+    "bbox": [
+      0,
+      0,
+      630,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.074805",
+    "frame_number": 191,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.5047616362571716,
+    "bbox": [
+      175,
+      205,
+      458,
+      328
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.247440",
+    "frame_number": 192,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6683609485626221,
+    "bbox": [
+      171,
+      204,
+      456,
+      326
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.247440",
+    "frame_number": 192,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.5808548927307129,
+    "bbox": [
+      170,
+      204,
+      457,
+      327
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.247440",
+    "frame_number": 192,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5249630212783813,
+    "bbox": [
+      0,
+      1,
+      623,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.247440",
+    "frame_number": 192,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5243967175483704,
+    "bbox": [
+      397,
+      186,
+      639,
+      441
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.440274",
+    "frame_number": 193,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6467422842979431,
+    "bbox": [
+      1,
+      133,
+      602,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.440274",
+    "frame_number": 193,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6412287950515747,
+    "bbox": [
+      170,
+      206,
+      452,
+      322
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.440274",
+    "frame_number": 193,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5792884826660156,
+    "bbox": [
+      394,
+      181,
+      639,
+      437
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.605872",
+    "frame_number": 194,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6326315999031067,
+    "bbox": [
+      1,
+      20,
+      619,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.605872",
+    "frame_number": 194,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5984252095222473,
+    "bbox": [
+      163,
+      206,
+      455,
+      321
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.605872",
+    "frame_number": 194,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.5082811117172241,
+    "bbox": [
+      163,
+      207,
+      454,
+      322
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.780767",
+    "frame_number": 195,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6193766593933105,
+    "bbox": [
+      1,
+      22,
+      600,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.780767",
+    "frame_number": 195,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6014764308929443,
+    "bbox": [
+      393,
+      181,
+      639,
+      436
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.920369",
+    "frame_number": 196,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6151694059371948,
+    "bbox": [
+      160,
+      211,
+      452,
+      326
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:27.920369",
+    "frame_number": 196,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5930460691452026,
+    "bbox": [
+      0,
+      73,
+      608,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:28.071946",
+    "frame_number": 197,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6172308921813965,
+    "bbox": [
+      0,
+      88,
+      621,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:28.071946",
+    "frame_number": 197,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5074008703231812,
+    "bbox": [
+      162,
+      212,
+      452,
+      326
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:28.246379",
+    "frame_number": 198,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.606762170791626,
+    "bbox": [
+      166,
+      216,
+      455,
+      327
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:28.246379",
+    "frame_number": 198,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5678499937057495,
+    "bbox": [
+      0,
+      71,
+      614,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:28.423510",
+    "frame_number": 199,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7065402269363403,
+    "bbox": [
+      0,
+      46,
+      617,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:28.567719",
+    "frame_number": 200,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7473204731941223,
+    "bbox": [
+      1,
+      114,
+      615,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:28.695437",
+    "frame_number": 201,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7356918454170227,
+    "bbox": [
+      1,
+      59,
+      620,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:28.695437",
+    "frame_number": 201,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5762099027633667,
+    "bbox": [
+      179,
+      208,
+      460,
+      330
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:28.861887",
+    "frame_number": 202,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7222516536712646,
+    "bbox": [
+      1,
+      57,
+      624,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:28.861887",
+    "frame_number": 202,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6532893776893616,
+    "bbox": [
+      162,
+      208,
+      459,
+      330
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:28.861887",
+    "frame_number": 202,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5474910736083984,
+    "bbox": [
+      397,
+      190,
+      639,
+      437
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.040409",
+    "frame_number": 203,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7321480512619019,
+    "bbox": [
+      161,
+      208,
+      458,
+      328
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.040409",
+    "frame_number": 203,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6568843722343445,
+    "bbox": [
+      1,
+      100,
+      613,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.176192",
+    "frame_number": 204,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5865015387535095,
+    "bbox": [
+      1,
+      64,
+      624,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.176192",
+    "frame_number": 204,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5305045247077942,
+    "bbox": [
+      171,
+      207,
+      458,
+      327
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.334283",
+    "frame_number": 205,
+    "object_id": "",
+    "class_name": "remote",
+    "confidence": 0.6712123155593872,
+    "bbox": [
+      160,
+      205,
+      458,
+      329
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.334283",
+    "frame_number": 205,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5134263038635254,
+    "bbox": [
+      163,
+      204,
+      459,
+      329
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.334283",
+    "frame_number": 205,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5085934996604919,
+    "bbox": [
+      0,
+      0,
+      623,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.501818",
+    "frame_number": 206,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6691272854804993,
+    "bbox": [
+      397,
+      187,
+      639,
+      438
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.501818",
+    "frame_number": 206,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5568237900733948,
+    "bbox": [
+      0,
+      31,
+      618,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.501818",
+    "frame_number": 206,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5555066466331482,
+    "bbox": [
+      159,
+      201,
+      460,
+      328
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.688327",
+    "frame_number": 207,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6467270851135254,
+    "bbox": [
+      181,
+      203,
+      458,
+      326
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.688327",
+    "frame_number": 207,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5657515525817871,
+    "bbox": [
+      1,
+      1,
+      621,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.688327",
+    "frame_number": 207,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5436830520629883,
+    "bbox": [
+      394,
+      185,
+      639,
+      435
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.851056",
+    "frame_number": 208,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5959199070930481,
+    "bbox": [
+      394,
+      178,
+      639,
+      428
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.851056",
+    "frame_number": 208,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5849754810333252,
+    "bbox": [
+      0,
+      2,
+      580,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:29.851056",
+    "frame_number": 208,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5251439213752747,
+    "bbox": [
+      160,
+      197,
+      454,
+      321
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:30.014458",
+    "frame_number": 209,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7111420035362244,
+    "bbox": [
+      0,
+      181,
+      609,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:30.014458",
+    "frame_number": 209,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.5255885720252991,
+    "bbox": [
+      160,
+      196,
+      441,
+      303
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:30.173828",
+    "frame_number": 210,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.677653431892395,
+    "bbox": [
+      1,
+      14,
+      620,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:30.173828",
+    "frame_number": 210,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6484975814819336,
+    "bbox": [
+      158,
+      190,
+      452,
+      313
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:30.335363",
+    "frame_number": 211,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6371131539344788,
+    "bbox": [
+      16,
+      62,
+      639,
+      476
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:30.487951",
+    "frame_number": 212,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.6182089447975159,
+    "bbox": [
+      129,
+      170,
+      361,
+      345
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:30.487951",
+    "frame_number": 212,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5179303884506226,
+    "bbox": [
+      11,
+      60,
+      639,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:30.653465",
+    "frame_number": 213,
+    "object_id": "",
+    "class_name": "cell phone",
+    "confidence": 0.7748697996139526,
+    "bbox": [
+      118,
+      184,
+      346,
+      325
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:30.653465",
+    "frame_number": 213,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5528031587600708,
+    "bbox": [
+      3,
+      169,
+      548,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:30.828595",
+    "frame_number": 214,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6660251617431641,
+    "bbox": [
+      1,
+      98,
+      638,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:30.966440",
+    "frame_number": 215,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7198101878166199,
+    "bbox": [
+      2,
+      98,
+      638,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:31.105117",
+    "frame_number": 216,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.771213710308075,
+    "bbox": [
+      0,
+      39,
+      638,
+      480
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:31.230424",
+    "frame_number": 217,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7858766913414001,
+    "bbox": [
+      2,
+      39,
+      638,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:31.369229",
+    "frame_number": 218,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.5297383069992065,
+    "bbox": [
+      1,
+      9,
+      637,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:31.501419",
+    "frame_number": 219,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6505820155143738,
+    "bbox": [
+      3,
+      5,
+      639,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:31.645906",
+    "frame_number": 220,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6182643175125122,
+    "bbox": [
+      0,
+      4,
+      639,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:32.548080",
+    "frame_number": 221,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7948358058929443,
+    "bbox": [
+      2,
+      1,
+      637,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:33.454327",
+    "frame_number": 222,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7317253351211548,
+    "bbox": [
+      66,
+      2,
+      639,
+      478
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:33.595377",
+    "frame_number": 223,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7530931830406189,
+    "bbox": [
+      45,
+      198,
+      525,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:34.507677",
+    "frame_number": 224,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6940412521362305,
+    "bbox": [
+      10,
+      199,
+      533,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:35.347713",
+    "frame_number": 225,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6091719269752502,
+    "bbox": [
+      68,
+      151,
+      603,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:36.214795",
+    "frame_number": 226,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.518023669719696,
+    "bbox": [
+      3,
+      0,
+      639,
+      477
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:36.548143",
+    "frame_number": 229,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.63101726770401,
+    "bbox": [
+      144,
+      173,
+      640,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:36.699109",
+    "frame_number": 230,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7351548671722412,
+    "bbox": [
+      98,
+      171,
+      637,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:36.830701",
+    "frame_number": 231,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8003191947937012,
+    "bbox": [
+      0,
+      174,
+      398,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:36.967653",
+    "frame_number": 232,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.831673800945282,
+    "bbox": [
+      11,
+      179,
+      535,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:37.095053",
+    "frame_number": 233,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7766662836074829,
+    "bbox": [
+      1,
+      182,
+      536,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:37.229684",
+    "frame_number": 234,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8343639969825745,
+    "bbox": [
+      1,
+      180,
+      560,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:38.114503",
+    "frame_number": 235,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6732708215713501,
+    "bbox": [
+      1,
+      187,
+      545,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:38.250960",
+    "frame_number": 236,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6865121722221375,
+    "bbox": [
+      9,
+      197,
+      573,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:38.398003",
+    "frame_number": 237,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7553685307502747,
+    "bbox": [
+      31,
+      196,
+      538,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:38.547732",
+    "frame_number": 238,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7631805539131165,
+    "bbox": [
+      99,
+      191,
+      537,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:38.702299",
+    "frame_number": 239,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6249234676361084,
+    "bbox": [
+      92,
+      186,
+      583,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:38.847727",
+    "frame_number": 240,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7499668598175049,
+    "bbox": [
+      64,
+      182,
+      536,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:38.994745",
+    "frame_number": 241,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7106589674949646,
+    "bbox": [
+      57,
+      184,
+      539,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:39.137978",
+    "frame_number": 242,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7382649779319763,
+    "bbox": [
+      71,
+      180,
+      537,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:39.278287",
+    "frame_number": 243,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7563315033912659,
+    "bbox": [
+      75,
+      180,
+      537,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:39.435157",
+    "frame_number": 244,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7329347133636475,
+    "bbox": [
+      76,
+      184,
+      534,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:39.580379",
+    "frame_number": 245,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7327204346656799,
+    "bbox": [
+      37,
+      184,
+      536,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:39.717528",
+    "frame_number": 246,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7186932563781738,
+    "bbox": [
+      75,
+      184,
+      535,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:39.887139",
+    "frame_number": 247,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.723229169845581,
+    "bbox": [
+      75,
+      184,
+      534,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:40.047182",
+    "frame_number": 248,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.737449049949646,
+    "bbox": [
+      72,
+      181,
+      537,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:40.195451",
+    "frame_number": 249,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7498869895935059,
+    "bbox": [
+      68,
+      181,
+      536,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:40.341126",
+    "frame_number": 250,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7852690815925598,
+    "bbox": [
+      67,
+      179,
+      536,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:40.489084",
+    "frame_number": 251,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7825159430503845,
+    "bbox": [
+      62,
+      178,
+      538,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:40.776136",
+    "frame_number": 252,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.8090686202049255,
+    "bbox": [
+      58,
+      177,
+      539,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:40.968017",
+    "frame_number": 253,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7694118618965149,
+    "bbox": [
+      61,
+      179,
+      539,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:41.108930",
+    "frame_number": 254,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.769269585609436,
+    "bbox": [
+      61,
+      179,
+      542,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:41.265932",
+    "frame_number": 255,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.713103711605072,
+    "bbox": [
+      73,
+      185,
+      535,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:41.414436",
+    "frame_number": 256,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.731329083442688,
+    "bbox": [
+      76,
+      190,
+      541,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:41.563550",
+    "frame_number": 257,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6504399180412292,
+    "bbox": [
+      87,
+      187,
+      536,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:41.715021",
+    "frame_number": 258,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7557740211486816,
+    "bbox": [
+      93,
+      184,
+      540,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:41.854159",
+    "frame_number": 259,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7559653520584106,
+    "bbox": [
+      69,
+      183,
+      538,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:42.002615",
+    "frame_number": 260,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7464289665222168,
+    "bbox": [
+      64,
+      182,
+      536,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:42.270721",
+    "frame_number": 261,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.6833550333976746,
+    "bbox": [
+      67,
+      183,
+      543,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:42.478538",
+    "frame_number": 262,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7079188227653503,
+    "bbox": [
+      65,
+      184,
+      540,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:42.626932",
+    "frame_number": 263,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7168117165565491,
+    "bbox": [
+      39,
+      182,
+      538,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:42.764410",
+    "frame_number": 264,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7587029933929443,
+    "bbox": [
+      41,
+      182,
+      542,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:42.925941",
+    "frame_number": 265,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7064999341964722,
+    "bbox": [
+      65,
+      181,
+      542,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:43.072558",
+    "frame_number": 266,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7368524074554443,
+    "bbox": [
+      59,
+      181,
+      540,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:43.206920",
+    "frame_number": 267,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7709130048751831,
+    "bbox": [
+      65,
+      180,
+      544,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:43.360785",
+    "frame_number": 268,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7772402763366699,
+    "bbox": [
+      63,
+      181,
+      542,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:43.516449",
+    "frame_number": 269,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7973617911338806,
+    "bbox": [
+      54,
+      180,
+      543,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:43.704408",
+    "frame_number": 270,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.78558349609375,
+    "bbox": [
+      61,
+      180,
+      543,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:43.878747",
+    "frame_number": 271,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7306986451148987,
+    "bbox": [
+      43,
+      179,
+      542,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:44.048237",
+    "frame_number": 272,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7611103057861328,
+    "bbox": [
+      52,
+      180,
+      540,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:44.215151",
+    "frame_number": 273,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7774893045425415,
+    "bbox": [
+      42,
+      180,
+      542,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:44.382363",
+    "frame_number": 274,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7717077732086182,
+    "bbox": [
+      27,
+      180,
+      541,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:44.542283",
+    "frame_number": 275,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7587769031524658,
+    "bbox": [
+      45,
+      180,
+      542,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:44.693849",
+    "frame_number": 276,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7744342088699341,
+    "bbox": [
+      51,
+      180,
+      541,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:44.845142",
+    "frame_number": 277,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7963337302207947,
+    "bbox": [
+      47,
+      180,
+      541,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:45.019838",
+    "frame_number": 278,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7578781843185425,
+    "bbox": [
+      57,
+      180,
+      542,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  },
+  {
+    "timestamp": "2025-09-21T13:06:45.157978",
+    "frame_number": 279,
+    "object_id": "",
+    "class_name": "person",
+    "confidence": 0.7466214299201965,
+    "bbox": [
+      58,
+      181,
+      541,
+      479
+    ],
+    "center": [
+      0,
+      0
+    ],
+    "zone_violation": false,
+    "zone_name": "",
+    "track_length": 0,
+    "movement_status": ""
+  }
+]

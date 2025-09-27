@@ -41,6 +41,16 @@ class ObjectDetector:
     def _load_model(self):
         """Load the YOLO model"""
         try:
+            # Fix PyTorch weights_only issue by setting weights_only=False
+            import torch
+            original_load = torch.load
+            
+            def patched_load(*args, **kwargs):
+                kwargs['weights_only'] = False
+                return original_load(*args, **kwargs)
+            
+            torch.load = patched_load
+            
             if self.custom_model and CUSTOM_MODEL_PATH:
                 self.model = YOLO(CUSTOM_MODEL_PATH)
                 logger.info(f"Loaded custom model: {CUSTOM_MODEL_PATH}")

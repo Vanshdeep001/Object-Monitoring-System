@@ -20,3 +20,137 @@
   "logging_enabled": true
 }
 2025-09-21 13:06:09,726 - WARNING - ZONE ALERT: {'zone_name': 'Restricted Area 2', 'object_class': 'person', 'confidence': 0.5649909377098083, 'bbox': [93, 0, 638, 382], 'center': (365, 191), 'timestamp': 1758440169.181573}
+2025-09-24 00:40:05,691 - INFO - === SYSTEM STARTED ===
+2025-09-24 00:40:05,691 - INFO - Configuration: {
+  "model_path": "yolov8n.pt",
+  "tracking_enabled": true,
+  "enhancement_enabled": true,
+  "logging_enabled": true
+}
+2025-09-26 00:19:20,232 - INFO - === SYSTEM STARTED ===
+2025-09-26 00:19:20,232 - INFO - Configuration: {
+  "model_path": "yolov8n.pt",
+  "zone_monitoring_enabled": true,
+  "logging_enabled": true
+}
+2025-09-26 00:19:22,449 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.890481173992157, 'bbox': [160, 192, 638, 479], 'center': (399, 335), 'timestamp': 1758826161.8767667}
+2025-09-26 00:19:24,497 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8906978368759155, 'bbox': [160, 193, 639, 479], 'center': (399, 336), 'timestamp': 1758826163.949456}
+2025-09-26 00:19:26,572 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.891913890838623, 'bbox': [161, 194, 638, 479], 'center': (399, 336), 'timestamp': 1758826165.9848056}
+2025-09-26 00:19:29,240 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8464412093162537, 'bbox': [161, 193, 639, 479], 'center': (400, 336), 'timestamp': 1758826168.6521888}
+2025-09-26 00:19:31,877 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.885846734046936, 'bbox': [161, 198, 637, 479], 'center': (399, 338), 'timestamp': 1758826171.2776704}
+2025-09-26 00:19:34,281 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8636869788169861, 'bbox': [162, 199, 633, 479], 'center': (397, 339), 'timestamp': 1758826173.691621}
+2025-09-26 00:30:13,030 - INFO - === SYSTEM STARTED ===
+2025-09-26 00:30:13,030 - INFO - Configuration: {
+  "model_path": "yolov8n.pt",
+  "tracking_enabled": true,
+  "enhancement_enabled": true,
+  "logging_enabled": true
+}
+2025-09-26 00:31:17,931 - INFO - === SYSTEM STOPPED ===
+2025-09-26 22:07:44,616 - INFO - === SYSTEM STARTED ===
+2025-09-26 22:07:44,616 - INFO - Configuration: {
+  "model_path": "yolov8n.pt",
+  "tracking_enabled": true,
+  "enhancement_enabled": true,
+  "logging_enabled": true
+}
+2025-09-26 22:08:57,336 - INFO - === SYSTEM STOPPED ===
+2025-09-26 22:18:22,624 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.7457854151725769, 'bbox': [126, 137, 575, 479], 'center': (350, 308), 'timestamp': 1758905302.0402033}
+2025-09-26 22:18:24,660 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8493571281433105, 'bbox': [103, 137, 598, 479], 'center': (350, 308), 'timestamp': 1758905304.108702}
+2025-09-26 22:18:26,654 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8520554900169373, 'bbox': [113, 137, 595, 479], 'center': (354, 308), 'timestamp': 1758905306.1136203}
+2025-09-26 22:18:28,833 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8449340462684631, 'bbox': [117, 138, 579, 479], 'center': (348, 308), 'timestamp': 1758905308.2735317}
+2025-09-26 22:18:30,826 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8667611479759216, 'bbox': [116, 132, 575, 479], 'center': (345, 305), 'timestamp': 1758905310.2913842}
+2025-09-26 22:18:32,842 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8638870120048523, 'bbox': [114, 129, 583, 479], 'center': (348, 304), 'timestamp': 1758905312.291571}
+2025-09-26 22:18:34,891 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.7260542511940002, 'bbox': [112, 144, 587, 479], 'center': (349, 311), 'timestamp': 1758905314.3353827}
+2025-09-26 22:18:37,154 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8496807217597961, 'bbox': [110, 137, 587, 479], 'center': (348, 308), 'timestamp': 1758905316.6044955}
+2025-09-26 22:18:39,262 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8405831456184387, 'bbox': [105, 143, 579, 479], 'center': (342, 311), 'timestamp': 1758905318.7274477}
+2025-09-26 22:18:41,361 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.6521013975143433, 'bbox': [48, 136, 573, 479], 'center': (310, 307), 'timestamp': 1758905320.8073242}
+2025-09-26 22:18:43,354 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8440017104148865, 'bbox': [120, 137, 636, 479], 'center': (378, 308), 'timestamp': 1758905322.8166635}
+2025-09-26 22:18:45,694 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.5443866848945618, 'bbox': [115, 140, 631, 478], 'center': (373, 309), 'timestamp': 1758905325.153299}
+2025-09-26 22:18:47,891 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8596134185791016, 'bbox': [116, 138, 638, 479], 'center': (377, 308), 'timestamp': 1758905327.3421764}
+2025-09-26 22:18:49,922 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8186776041984558, 'bbox': [15, 135, 608, 479], 'center': (311, 307), 'timestamp': 1758905329.374592}
+2025-09-26 22:18:52,072 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.868932843208313, 'bbox': [83, 133, 587, 479], 'center': (335, 306), 'timestamp': 1758905331.5334005}
+2025-09-26 22:18:54,197 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8813707232475281, 'bbox': [100, 136, 585, 479], 'center': (342, 307), 'timestamp': 1758905333.6363237}
+2025-09-26 22:18:56,255 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8975248336791992, 'bbox': [97, 135, 589, 479], 'center': (343, 307), 'timestamp': 1758905335.711076}
+2025-09-26 22:18:58,463 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8158831596374512, 'bbox': [83, 113, 633, 479], 'center': (358, 296), 'timestamp': 1758905337.9162757}
+2025-09-26 22:19:00,644 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.7665615677833557, 'bbox': [69, 107, 635, 479], 'center': (352, 293), 'timestamp': 1758905340.092929}
+2025-09-26 22:19:02,759 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8171695470809937, 'bbox': [86, 103, 637, 479], 'center': (361, 291), 'timestamp': 1758905342.1995106}
+2025-09-26 22:19:29,399 - INFO - === SYSTEM STARTED ===
+2025-09-26 22:19:29,399 - INFO - Configuration: {
+  "model_path": "yolov8n.pt",
+  "zone_monitoring_enabled": true,
+  "logging_enabled": true
+}
+2025-09-26 22:19:54,611 - INFO - === SYSTEM STOPPED ===
+2025-09-26 22:21:36,062 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8793167471885681, 'bbox': [85, 84, 638, 479], 'center': (361, 281), 'timestamp': 1758905495.4502409}
+2025-09-26 22:21:38,163 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.9022615551948547, 'bbox': [88, 84, 639, 479], 'center': (363, 281), 'timestamp': 1758905497.579559}
+2025-09-26 22:21:40,245 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8728947043418884, 'bbox': [83, 87, 639, 479], 'center': (361, 283), 'timestamp': 1758905499.6875653}
+2025-09-26 22:21:42,316 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8856391310691833, 'bbox': [100, 85, 638, 478], 'center': (369, 281), 'timestamp': 1758905501.734674}
+2025-09-26 22:21:44,382 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8867136240005493, 'bbox': [88, 80, 638, 479], 'center': (363, 279), 'timestamp': 1758905503.8291745}
+2025-09-26 22:21:46,407 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8729142546653748, 'bbox': [79, 81, 639, 479], 'center': (359, 280), 'timestamp': 1758905505.833237}
+2025-09-26 22:21:48,484 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8726443648338318, 'bbox': [81, 81, 639, 479], 'center': (360, 280), 'timestamp': 1758905507.9417372}
+2025-09-26 22:21:50,549 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8683652281761169, 'bbox': [101, 84, 638, 478], 'center': (369, 281), 'timestamp': 1758905509.9956546}
+2025-09-26 22:21:52,599 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8773581385612488, 'bbox': [92, 52, 639, 479], 'center': (365, 265), 'timestamp': 1758905512.0484717}
+2025-09-26 22:21:54,656 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8898019790649414, 'bbox': [86, 81, 639, 479], 'center': (362, 280), 'timestamp': 1758905514.0984814}
+2025-09-26 22:21:56,800 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8198534846305847, 'bbox': [70, 88, 637, 479], 'center': (353, 283), 'timestamp': 1758905516.2517464}
+2025-09-26 22:21:58,915 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.9054073095321655, 'bbox': [78, 120, 637, 478], 'center': (357, 299), 'timestamp': 1758905518.3692837}
+2025-09-26 22:22:00,964 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.882178008556366, 'bbox': [116, 134, 609, 479], 'center': (362, 306), 'timestamp': 1758905520.4010818}
+2025-09-26 22:22:03,117 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8812482357025146, 'bbox': [118, 135, 616, 479], 'center': (367, 307), 'timestamp': 1758905522.5663478}
+2025-09-26 22:22:05,214 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8813285827636719, 'bbox': [117, 135, 626, 479], 'center': (371, 307), 'timestamp': 1758905524.661699}
+2025-09-26 22:22:18,061 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8929493427276611, 'bbox': [67, 120, 631, 479], 'center': (349, 299), 'timestamp': 1758905537.4839766}
+2025-09-26 22:22:20,076 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8991252183914185, 'bbox': [77, 121, 639, 479], 'center': (358, 300), 'timestamp': 1758905539.5187364}
+2025-09-26 22:22:22,216 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8397775292396545, 'bbox': [36, 146, 609, 479], 'center': (322, 312), 'timestamp': 1758905541.6615162}
+2025-09-26 22:22:24,316 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.7119589447975159, 'bbox': [0, 133, 633, 478], 'center': (316, 305), 'timestamp': 1758905543.760911}
+2025-09-26 22:22:26,348 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.7289421558380127, 'bbox': [66, 148, 637, 479], 'center': (351, 313), 'timestamp': 1758905545.794142}
+2025-09-26 22:22:28,907 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.5957992672920227, 'bbox': [17, 152, 579, 479], 'center': (298, 315), 'timestamp': 1758905548.3429244}
+2025-09-26 22:22:32,107 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.7249165177345276, 'bbox': [19, 125, 628, 479], 'center': (323, 302), 'timestamp': 1758905551.5446026}
+2025-09-26 22:22:34,104 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8616251349449158, 'bbox': [52, 153, 637, 479], 'center': (344, 316), 'timestamp': 1758905553.5484145}
+2025-09-26 22:22:36,405 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.5260782837867737, 'bbox': [3, 4, 639, 477], 'center': (321, 240), 'timestamp': 1758905555.830473}
+2025-09-26 22:22:38,430 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.6453055143356323, 'bbox': [51, 143, 638, 479], 'center': (344, 311), 'timestamp': 1758905557.8804877}
+2025-09-26 22:22:40,614 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.7298794388771057, 'bbox': [65, 150, 634, 479], 'center': (349, 314), 'timestamp': 1758905560.0464258}
+2025-09-26 22:22:42,672 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8813683390617371, 'bbox': [80, 153, 637, 479], 'center': (358, 316), 'timestamp': 1758905562.1102903}
+2025-09-26 22:22:44,946 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.700882613658905, 'bbox': [72, 158, 521, 479], 'center': (296, 318), 'timestamp': 1758905564.3646605}
+2025-09-26 22:22:46,937 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8802616000175476, 'bbox': [68, 150, 575, 479], 'center': (321, 314), 'timestamp': 1758905566.3725748}
+2025-09-26 22:22:48,998 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.7143413424491882, 'bbox': [4, 150, 633, 479], 'center': (318, 314), 'timestamp': 1758905568.42963}
+2025-09-26 22:22:51,241 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8848845362663269, 'bbox': [81, 133, 635, 479], 'center': (358, 306), 'timestamp': 1758905570.6797457}
+2025-09-26 22:22:53,283 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8440245389938354, 'bbox': [101, 116, 635, 479], 'center': (368, 297), 'timestamp': 1758905572.7373962}
+2025-09-26 22:22:55,409 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8677625060081482, 'bbox': [103, 117, 607, 479], 'center': (355, 298), 'timestamp': 1758905574.852008}
+2025-09-26 22:22:57,477 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8565699458122253, 'bbox': [101, 120, 628, 479], 'center': (364, 299), 'timestamp': 1758905576.922843}
+2025-09-26 22:22:59,634 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8354934453964233, 'bbox': [108, 118, 636, 479], 'center': (372, 298), 'timestamp': 1758905579.0791068}
+2025-09-26 22:23:01,718 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8626348376274109, 'bbox': [97, 118, 635, 479], 'center': (366, 298), 'timestamp': 1758905581.16491}
+2025-09-26 22:23:03,762 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8913105130195618, 'bbox': [95, 119, 637, 479], 'center': (366, 299), 'timestamp': 1758905583.1962337}
+2025-09-26 22:23:05,806 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.878360390663147, 'bbox': [98, 116, 636, 479], 'center': (367, 297), 'timestamp': 1758905585.2498}
+2025-09-26 22:23:07,826 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8540340065956116, 'bbox': [93, 118, 634, 479], 'center': (363, 298), 'timestamp': 1758905587.259489}
+2025-09-26 22:23:09,928 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8830156326293945, 'bbox': [92, 119, 630, 479], 'center': (361, 299), 'timestamp': 1758905589.374635}
+2025-09-26 22:23:11,942 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8693996071815491, 'bbox': [96, 120, 615, 479], 'center': (355, 299), 'timestamp': 1758905591.3844497}
+2025-09-26 22:23:48,131 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8839906454086304, 'bbox': [78, 127, 629, 479], 'center': (353, 303), 'timestamp': 1758905627.5550108}
+2025-09-26 22:23:50,211 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.9002613425254822, 'bbox': [89, 125, 633, 479], 'center': (361, 302), 'timestamp': 1758905629.6370378}
+2025-09-26 22:23:52,207 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8827558159828186, 'bbox': [87, 124, 629, 479], 'center': (358, 301), 'timestamp': 1758905631.6377466}
+2025-09-26 22:23:54,410 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8960375189781189, 'bbox': [88, 123, 637, 479], 'center': (362, 301), 'timestamp': 1758905633.8575172}
+2025-09-26 22:23:56,527 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8666679263114929, 'bbox': [92, 124, 631, 479], 'center': (361, 301), 'timestamp': 1758905635.9614687}
+2025-09-26 22:23:58,627 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8784886598587036, 'bbox': [87, 122, 625, 479], 'center': (356, 300), 'timestamp': 1758905638.0778306}
+2025-09-26 22:24:00,777 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8623153567314148, 'bbox': [83, 118, 633, 479], 'center': (358, 298), 'timestamp': 1758905640.195046}
+2025-09-26 22:24:02,845 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.854713499546051, 'bbox': [87, 121, 628, 479], 'center': (357, 300), 'timestamp': 1758905642.2522795}
+2025-09-26 22:24:04,998 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8763394951820374, 'bbox': [78, 119, 636, 479], 'center': (357, 299), 'timestamp': 1758905644.3593187}
+2025-09-26 22:24:07,159 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8820258975028992, 'bbox': [84, 119, 630, 479], 'center': (357, 299), 'timestamp': 1758905646.549701}
+2025-09-26 22:24:09,562 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8807279467582703, 'bbox': [83, 118, 635, 479], 'center': (359, 298), 'timestamp': 1758905648.873665}
+2025-09-26 22:24:11,607 - WARNING - ZONE ALERT: {'zone_name': 'Work Area', 'object_class': 'person', 'confidence': 0.8899638652801514, 'bbox': [86, 121, 620, 479], 'center': (353, 300), 'timestamp': 1758905651.0079005}
+2025-09-26 22:41:29,989 - WARNING - ZONE ALERT: {'zone_name': 'Area-51', 'object_class': 'person', 'confidence': 0.6313604116439819, 'bbox': [0, 10, 395, 479], 'center': (197, 244), 'timestamp': 1758906689.3274672}
+2025-09-26 22:43:38,023 - WARNING - ZONE ALERT: {'zone_name': 'Area-51', 'object_class': 'person', 'confidence': 0.5953007340431213, 'bbox': [0, 6, 318, 477], 'center': (159, 241), 'timestamp': 1758906817.34528}
+2025-09-26 22:43:46,827 - WARNING - ZONE ALERT: {'zone_name': 'Area-51', 'object_class': 'person', 'confidence': 0.5453758239746094, 'bbox': [1, 0, 313, 476], 'center': (157, 238), 'timestamp': 1758906826.1560788}
+2025-09-26 22:44:05,024 - WARNING - ZONE ALERT: {'zone_name': 'Area-51', 'object_class': 'person', 'confidence': 0.7048006653785706, 'bbox': [0, 41, 260, 451], 'center': (130, 246), 'timestamp': 1758906844.3407967}
+2025-09-26 22:44:09,198 - WARNING - ZONE ALERT: {'zone_name': 'Area-51', 'object_class': 'person', 'confidence': 0.6496235728263855, 'bbox': [0, 0, 269, 473], 'center': (134, 236), 'timestamp': 1758906848.547809}
+2025-09-26 22:44:21,149 - WARNING - ZONE ALERT: {'zone_name': 'Area-51', 'object_class': 'person', 'confidence': 0.5041033625602722, 'bbox': [0, 7, 205, 475], 'center': (102, 241), 'timestamp': 1758906860.4169745}
+2025-09-26 22:44:23,849 - WARNING - ZONE ALERT: {'zone_name': 'Area-51', 'object_class': 'person', 'confidence': 0.5670669078826904, 'bbox': [20, 0, 291, 461], 'center': (155, 230), 'timestamp': 1758906863.1749578}
+2025-09-26 22:44:25,766 - WARNING - ZONE ALERT: {'zone_name': 'Area-51', 'object_class': 'person', 'confidence': 0.8936907052993774, 'bbox': [1, 0, 386, 479], 'center': (193, 239), 'timestamp': 1758906865.175937}
+2025-09-26 22:44:35,055 - WARNING - ZONE ALERT: {'zone_name': 'Area-51', 'object_class': 'person', 'confidence': 0.8742560148239136, 'bbox': [1, 0, 398, 479], 'center': (199, 239), 'timestamp': 1758906874.462848}
+2025-09-26 22:45:15,305 - WARNING - ZONE ALERT: {'zone_name': 'Area-51', 'object_class': 'person', 'confidence': 0.5418290495872498, 'bbox': [0, 12, 258, 473], 'center': (129, 242), 'timestamp': 1758906914.5522013}
+2025-09-26 22:45:58,285 - WARNING - ZONE ALERT: {'zone_name': 'Area-51', 'object_class': 'person', 'confidence': 0.5702733397483826, 'bbox': [0, 18, 250, 479], 'center': (125, 248), 'timestamp': 1758906957.5642962}
+2025-09-27 14:19:11,633 - INFO - === SYSTEM STARTED ===
+2025-09-27 14:19:11,633 - INFO - Configuration: {
+  "model_path": "yolov8n.pt",
+  "tracking_enabled": true,
+  "enhancement_enabled": true,
+  "logging_enabled": true
+}
+2025-09-27 14:19:56,006 - INFO - === SYSTEM STOPPED ===
